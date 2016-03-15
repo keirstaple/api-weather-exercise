@@ -1,0 +1,23 @@
+{
+  "name": "node_template",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Keir Staple <keirstaple@comcast.net>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/keirstaple/node-template",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "bootstrap": "^3.3.6",
+    "moment": "^2.12.0"
+  }
+}
